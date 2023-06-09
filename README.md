@@ -82,3 +82,6 @@ Created with the instructional help of the Udacity course  *Programming for Data
 In addition to the Udacity materials used resources:
 >- [https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different](https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different)
 >- [https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+
+Kind regards   
+TippeTiTop
