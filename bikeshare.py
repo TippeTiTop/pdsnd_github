@@ -236,7 +236,7 @@ def show_rawdata(df):
     """
     
     show_rows = True
-    show_steps = 5
+    show_steps = 10
     rows_max = show_steps
     rows_min = 0
    
