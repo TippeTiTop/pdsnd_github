@@ -1,5 +1,5 @@
 # Explore US Bikeshare Data
-
+<img src="https://cdn.pixabay.com/photo/2022/07/24/19/42/bike-7342379_1280.png" width="250" height="160">
 
 ### Date created
 9/6/2023
@@ -82,4 +82,3 @@ Created with the instructional help of the Udacity course  *Programming for Data
 In addition to the Udacity materials used resources:
 >- [https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different](https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different)
 >- [https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
-
