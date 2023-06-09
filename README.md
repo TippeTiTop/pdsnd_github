@@ -14,47 +14,43 @@ In this project data of the three cities New York, Chicago and Washington can be
 **The Datasets**
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
-	>* Start Time (e.g., 2017-01-01 00:07:57)
-	>* End Time (e.g., 2017-01-01 00:20:53)
-	>* Trip Duration (in seconds - e.g., 776)
-	>* Start Station (e.g., Broadway & Barry Ave)
-	>* End Station (e.g., Sedgwick St & North Ave)
-	>* User Type (Subscriber or Customer)
+- Start Time (e.g., 2017-01-01 00:07:57)
+- End Time (e.g., 2017-01-01 00:20:53)
+- Trip Duration (in seconds - e.g., 776)
+- Start Station (e.g., Broadway & Barry Ave)
+- End Station (e.g., Sedgwick St & North Ave)
+- User Type (Subscriber or Customer)
 
 		
 The Chicago and New York City files also have the following two columns:
-	>- Gender
-	>- Birth Year
-
+- Gender
+- Birth Year
+<br/>
 
 **Statistics Computed**
 
 1. Popular times of travel (i.e., occurs most often in the start time)
-
-  - most common month
-  - most common day of week
-  - most common hour of day  
-  <br/><br/>   	 
+	- most common month
+	- most common day of week
+	- most common hour of day  
+  <br/>   	 
   
 2. Popular stations and trip
-
-  - most common start station
-  - most common end station
-  - most common trip from start to end (i.e., most frequent combination of start station and end station)  
-  <br/><br/> 
+	- most common start station
+	- most common end station
+	- most common trip from start to end (i.e., most frequent combination of start station and end station)  
+  <br/>
   
 3. Trip duration
-
-  - total travel time
-  - average travel time  
-  <br/><br/> 
+	- total travel time
+	- average travel time  
+  <br/> 
   
 4. User info
-
-  - counts of each user type
-  - counts of each gender (only available for NYC and Chicago)
-  - earliest, most recent, most common year of birth (only available for NYC and Chicago)  
-    
+	- counts of each user type
+	- counts of each gender (only available for NYC and Chicago)
+	- earliest, most recent, most common year of birth (only available for NYC and Chicago)  
+<br/>    
 
 **Application Workflow**
 
@@ -68,8 +64,9 @@ The Chicago and New York City files also have the following two columns:
 
 
 Created and tested with the following applications under macOS 11.6:
-	>* Python 3.10.9
-	>* TextMate 2.0.23
+>* Python 3.10.9
+>* TextMate 2.0.23
+<br/>
 
 ## Files used
 >- bikeshare.py
@@ -83,6 +80,6 @@ Created and tested with the following applications under macOS 11.6:
 Created with the instructional help of the Udacity course  *Programming for Data Science with Python* .  
 
 In addition to the Udacity materials used resources:
-	>* [https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different](https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different)
-	>* [https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+>- [https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different](https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different)
+>- [https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
 
